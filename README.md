@@ -1,4 +1,3 @@
-# .github
 # Numerical Simulations and Artificial Intelligence Laboratory (LSNIA)
 <p align="center">
   <img src="lsnialogo.svg" width=30% heigth=30% alt="LSNIA logo, Guilherme Faura">
